@@ -1,2 +1,3 @@
-# react-tailwind-dashboard
-Dashboard desenvolvido utilizando React + Tailwindui
+# Links Utilizados
+
+- tailblocks: https://tailblocks.cc/
